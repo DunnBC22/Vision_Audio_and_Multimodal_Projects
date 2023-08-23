@@ -63,6 +63,8 @@ This repository houses both semi-structured and non-structured projects that bot
 | [Axial MRIs](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Axial%20MRIs/Axial_MRIs_Object_Detection_YOLOS.ipynb) | 0.284 | 0.566 |
 | [Blood Cell Object Detection](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Blood%20Cell%20Object%20Detection/Blood_Cell_Object_Detection_YOLOS.ipynb) | 0.344 | 0.448 |
 | [Brain Tumors](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Brain%20Tumors/Brain_Tumor_m2pbp_Object_Detection_YOLOS.ipynb) | 0.185 | 0.407 |
+| [Cell Tower Object Detection](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Cell%20Tower%20Object%20Detection/Cell%20Tower%20Detection%20YOLOS.ipynb) | 0.287 | 0.492 |
+| [Stomata Cells](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Stomata%20Cells/Stomata_Cells_Object_Detection_YOLOS.ipynb) | 0.340 | 0.547 |
 | [Excavator Object Detection](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Excavator%20Object%20Detection/Version%201%20(Better%20Results)/Excavator%20Detector%20-%20Object%20Detection.ipynb) | 0.386 | 0.748 |
 | [Forklift Object Detection](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/tree/main/Computer%20Vision/Object%20Detection/Forklift%20Object%20Detection) | 0.136 | 0.340 |
 | [Hard Hat Object Detection](https://github.com/DunnBC22/Vision_Audio_and_Multimodal_Projects/blob/main/Computer%20Vision/Object%20Detection/Hard%20Hat%20Detection/Hard_Hat_Object_Detection_YOLOS.ipynb) | 0.346 | 0.558 |
@@ -140,7 +142,7 @@ Footnotes:
 
 [^1]: This project is part of a transformer comparison.
 
-[^2]: CER is Character Error Rate.
+[^2]: CER stands for Character Error Rate.
 
 [^3]: Average Precision (AP) @[IoU=0.50:0.95 | area=all | maxDets=100]
 
